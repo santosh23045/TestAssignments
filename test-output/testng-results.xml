@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63" started-at="2018-05-20T09:54:05Z" finished-at="2018-05-20T09:54:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63" started-at="2018-05-20T09:54:05Z" finished-at="2018-05-20T09:54:05Z">
+      <class name="test.NewTest">
+        <test-method status="PASS" signature="testMedianCalculator()[pri:0, instance:test.NewTest@e2cbe0]" name="testMedianCalculator" duration-ms="38" started-at="2018-05-20T09:54:05Z" finished-at="2018-05-20T09:54:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMedianCalculator -->
+        <test-method status="PASS" signature="testUniquesubstring()[pri:0, instance:test.NewTest@e2cbe0]" name="testUniquesubstring" duration-ms="2" started-at="2018-05-20T09:54:05Z" finished-at="2018-05-20T09:54:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUniquesubstring -->
+        <test-method status="PASS" signature="testArrayAddition()[pri:1, instance:test.NewTest@e2cbe0]" name="testArrayAddition" duration-ms="1" started-at="2018-05-20T09:54:05Z" finished-at="2018-05-20T09:54:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testArrayAddition -->
+      </class> <!-- test.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
